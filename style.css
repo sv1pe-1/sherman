@@ -56,7 +56,7 @@ body {
 
 .profile-card {
     background-color: #321A4A; 
-    border: 2px solid #A49CB5;
+    border: 2px solid #FDA6D7;
     border-radius: 20px;
     padding: 30px 60px;
     text-align: left;
@@ -109,4 +109,5 @@ body {
 .total-value {
     background-color: #321A4A; 
     font-weight: bold;
+
 }
